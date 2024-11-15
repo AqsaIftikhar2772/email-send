@@ -1,0 +1,33 @@
+ .main-div{
+    background-image: linear-gradient(to bottom , pink , gray);
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    left: 500px;
+ }
+ h1{
+    margin: 50px 0 30px 150px;
+ }
+.form   input {
+   width: 300px;  
+   height: 30px;
+   margin: 0 0 20px 50px;
+   padding: 5px;
+   border-radius: 5px;
+   
+}
+.form textarea {
+    width: 300px;
+    margin: 20px 0 10px 50px;
+    border-radius: 5px;
+}
+.form button{
+    background-color: darkolivegreen;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin:10px 0 20px 50px;
+    cursor: pointer;
+}
